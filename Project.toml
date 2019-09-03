@@ -1,0 +1,6 @@
+name = "Retester"
+uuid = "f23f37ed-d2b0-48e2-ac3c-fe49551d3e0e"
+version = "0.1.0"
+
+[compat]
+julia = "1"
